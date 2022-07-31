@@ -1,0 +1,101 @@
+
+.map-container {
+    position: absolute;
+}
+
+
+.block-1 {
+    position: absolute;
+    /* top: 10%; */
+    height: 120px;
+    width: 280px;
+    border-radius: 1em;
+    background-color: #6b96f3;
+    opacity: .5; 
+}
+
+
+.block-1-lot {
+    position: absolute;
+    /* top: 10%;
+    left: 15%; */
+    height: 50px;
+    width: 50px;
+    border-radius: .5em;
+    color: black;
+}
+
+.block-2 {
+    position: absolute;
+    /* top: 30%; */
+    height: 222px;
+    width: 280px;
+    border-radius: 1em;
+    background-color: #6b96f3;
+    opacity: .5;
+}
+
+.block-2-lot {
+    position: absolute;
+    /* top: 10%;
+    left: 15%; */
+    height: 50px;
+    width: 50px;
+    border-radius: .5em;
+    background-color: white;
+    color: black;
+}
+
+.block-3 {
+    position: absolute;
+    /* top: 65%; */
+    height: 180px;
+    width: 280px;
+    border-radius: 1em;
+    background-color: #6b96f3;
+    opacity: .5;
+}
+
+.block-3-lot {
+    position: absolute;
+    /* top: 10%;
+    left: 15%; */
+    width: 50px;
+    border-radius: .5em;
+    background-color: white;
+    color: black;
+    
+}
+
+.block-4 {
+    position: absolute;
+    /* top: 10%;
+    left: 32%; */
+    height: 237px;
+    width: 850px;
+    border-radius: 1em;
+    background-color: #6b96f3;
+    opacity: .5;
+}
+
+.block-4-lot {
+    position: absolute;
+    /* top: 10%;
+    left: 15%; */
+    width: 50px;
+    border-radius: .5em;
+    background-color: white;
+    color: black;
+    
+}
+
+.block-5 {
+    position: absolute;
+    /* top: 47%;
+    left: 32%; */
+    height: 300px;
+    width: 850px;
+    border-radius: 1em;
+    background-color: #6b96f3;
+    opacity: .5;
+}
